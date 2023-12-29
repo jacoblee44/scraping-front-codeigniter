@@ -1,0 +1,993 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AUacShjFpKoydO7m11jpsXDRb_u74pFr4bvn_ih6wNfYYHKsgZl_1WEQz6Lp8AijPlKNb7kOk4SNXtePDoVL4tUTK9Kej_jX1vUqZTQ43nMS7LxNr2CGRl3aJiRQrsLZJ0cUzLmxyfPu_DyieFzfRhT8ja7ysagcgm8fCQnwSmyxhACXJCMuhwMPitfO75bSTzpsJv5_Ez2DS0r5pJ9bHugLhZ03lZzeStQN8AvgWHDzySaEHCcbR2eW0TLsarql1tu0z_NTeBaLXUNib2a5rldiGs8rzz_cjETizpADC3i4pUtJmiiQQTIZaN01qyoUUQ3JEC0oMt0-9Y8bYn_BQHZzGj3p9l6TMONhhMoUMwrxDXqUxRvou59y1cfkN2OxELmryl_zbwDmBvOnZzBHkD0QsKJS2tQ0GPM6r4aGtVvsPSHlMW3RHbsxNyE",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9365586,
+                    "lng": -80.12088749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.93787262989272,
+                        "lng": -80.11979957010728
+                    },
+                    "southwest": {
+                        "lat": 25.93517297010728,
+                        "lng": -80.12249922989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Solé Miami, A Noble House Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105418459233067725527\">שקד רוגובסקי</a>"
+                    ],
+                    "photo_reference": "AUacShiamxmHjTMscBes1_U7ozq2s6xckq0JoP57a35AM-f47BLWSK0E2PnRP0TPd3Zsp1cG7k9ESQDpLrRpqV2OMZGTBiwubvugYCWzrhFpRPPfeHtJgKGyqrq6F3ykGmxtiw-spqUnEbg50PfvjEDPkhi-qsc54Nrne9yi_fAhWegVyqzJ",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJbYQWdh-t2YgRY5RXWxyu4n0",
+            "plus_code": {
+                "compound_code": "WVPH+JJ Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVPH+JJ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJbYQWdh-t2YgRY5RXWxyu4n0",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2408,
+            "vicinity": "17315 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9532489,
+                    "lng": -80.14344779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95459907989272,
+                        "lng": -80.14209802010728
+                    },
+                    "southwest": {
+                        "lat": 25.95189942010727,
+                        "lng": -80.14479767989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hilton Aventura Miami",
+            "photos": [
+                {
+                    "height": 3333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104021839712922230058\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShgqEHIr9EUx-dAI8_NagfECSPENllY5rF-IO1oQgYuTOns3VnPEx9bI4aDbi1oknHroFs1GZLFSc0AcJ9XG02ebyWWEFj-Umz_00JNcL0nKYuNJNEMaoVKP46RWWeRZgyItePreIff7h5BRMmsw9YS9CL3kmtdSN9eaCNpnlFOakSBY",
+                    "width": 5000
+                }
+            ],
+            "place_id": "ChIJl11D_1es2YgRr6X8b3Fcmcs",
+            "plus_code": {
+                "compound_code": "XV34+7J Aventura, Florida, USA",
+                "global_code": "76QXXV34+7J"
+            },
+            "rating": 4.6,
+            "reference": "ChIJl11D_1es2YgRr6X8b3Fcmcs",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 609,
+            "vicinity": "2885 NE 191st St, Aventura"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9544716,
+                    "lng": -80.11974699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95573527989272,
+                        "lng": -80.11872092010728
+                    },
+                    "southwest": {
+                        "lat": 25.95303562010728,
+                        "lng": -80.12142057989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Ramada Plaza by Wyndham Marco Polo Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112069093429149828642\">Ramada Plaza Marco Polo Beach Resort</a>"
+                    ],
+                    "photo_reference": "AUacShgrJmOw9fozwi1stbpKI5v2oADByVIPvvah2tiDR9DdQEyz82L8Jsn74UeP_nkDWUoTFbd0MC8mqzQJgZtKGR0cfian-exOTyznzWho7SDhh0zqeSTvyee2z5YcOXh4Ji1TqkJR1-GJm7oGmMVlJV8PpMuTrgloPGbcMfo5MhMFa7Ob",
+                    "width": 1368
+                }
+            ],
+            "place_id": "ChIJ-6G6ZMKs2YgRvYKcAjFfP7I",
+            "plus_code": {
+                "compound_code": "XV3J+Q4 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXXV3J+Q4"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ-6G6ZMKs2YgRvYKcAjFfP7I",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4337,
+            "vicinity": "19201 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9306412,
+                    "lng": -80.1216431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.93201842989272,
+                        "lng": -80.12033417010727
+                    },
+                    "southwest": {
+                        "lat": 25.92931877010728,
+                        "lng": -80.12303382989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Newport Beachside Hotel & Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2912,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109088483243502839302\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShgWwHLTjvjpR4h4V4Yvid_o3rbge-PJx8lYiRGMVE1yTAub3wtvSaU2dhC5Smdo3EwIoGoMlPb33daX5H3rMtD51v8E86AGC2uBv3VkHhcG4vsHuezMGTpnMPdZzWsRSPpLrYM9gLG-iQyWHJ_G0auhn-ddipKcQ73lSE6HHCmj0Nhg",
+                    "width": 4024
+                }
+            ],
+            "place_id": "ChIJWfH28Rit2YgRY4znVr8VStU",
+            "plus_code": {
+                "compound_code": "WVJH+78 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVJH+78"
+            },
+            "rating": 3.6,
+            "reference": "ChIJWfH28Rit2YgRY4znVr8VStU",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7428,
+            "vicinity": "16701 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.953187,
+                    "lng": -80.144108
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95433497989272,
+                        "lng": -80.14277377010727
+                    },
+                    "southwest": {
+                        "lat": 25.95163532010728,
+                        "lng": -80.14547342989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Courtyard by Marriott Miami Aventura Mall",
+            "photos": [
+                {
+                    "height": 320,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111709240575319441981\">Courtyard Miami Aventura Mall</a>"
+                    ],
+                    "photo_reference": "AUacShhPBVCGq_B7R1UxQDSPtag-o3Q_jBdIXiEAP3VXtM50Z7CpUm6gUEv9p-V0EfawHC2NGPc6b3PHPi12J1L7rBzS1bjdHfo0jCV301aF5W3HS4THX-44ZDti7QGQlpVkWdeI3mr14GB1lpkJqH4ryVZRmdHIaPwAUh9RK1IZ18JucWqv",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJA5uCGFis2YgRCWWf2mTAeiU",
+            "plus_code": {
+                "compound_code": "XV34+79 Aventura, Florida, USA",
+                "global_code": "76QXXV34+79"
+            },
+            "rating": 4.3,
+            "reference": "ChIJA5uCGFis2YgRCWWf2mTAeiU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 840,
+            "vicinity": "2825 NE 191st St, Aventura"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9431972,
+                    "lng": -80.12061279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94456407989272,
+                        "lng": -80.11951372010728
+                    },
+                    "southwest": {
+                        "lat": 25.94186442010728,
+                        "lng": -80.12221337989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Trump International Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4474,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105827596338887716977\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjC1ut1YKT5-CbzZVjAZBbF33qnoMTsEGMYsVV41kR9hEOvxYcF6RmDrYinaYCa-HEiX1vboQdr-jkJ_k69xoXzFWjNHxTVpKbkaZP0LY3t-q85bc0c8Wi-4STRUXJJ4YgzIx7oJxcRgvXH39RrP6j4ZnwX-fNBYVl5hEwZiCbuoszY",
+                    "width": 6711
+                }
+            ],
+            "place_id": "ChIJffZjguCs2YgRaq7DpWYC2B4",
+            "plus_code": {
+                "compound_code": "WVVH+7Q Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVVH+7Q"
+            },
+            "rating": 4,
+            "reference": "ChIJffZjguCs2YgRaq7DpWYC2B4",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 925,
+            "vicinity": "18001 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.949144,
+                    "lng": -80.1201744
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95049937989272,
+                        "lng": -80.11870782010728
+                    },
+                    "southwest": {
+                        "lat": 25.94779972010728,
+                        "lng": -80.12140747989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Marenas Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109216156823187904960\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShiCxUekqqbXIgwvZfdDJc-3rT_L6XDl8a9IJhYa7EtDxUf0iAjfD1TG7Hh15-3cgJG1O--o1kIKmJVK6voK-jmM3zEsJrywLnAqkF_8gGGRsvLY2xaMPxp5OYC2GgVvGRWdWKRqfRLKGjyjqPt4lCUnldJ47FVu4UTlbfEu1OmnzX2W",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJNSzjYt2s2YgRhVyCZ_3Cyrs",
+            "plus_code": {
+                "compound_code": "WVXJ+M2 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVXJ+M2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJNSzjYt2s2YgRhVyCZ_3Cyrs",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2011,
+            "vicinity": "18683 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9369408,
+                    "lng": -80.12070799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.93821352989272,
+                        "lng": -80.11939607010727
+                    },
+                    "southwest": {
+                        "lat": 25.93551387010728,
+                        "lng": -80.12209572989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "DoubleTree Resort & Spa by Hilton Hotel Ocean Point - North Miami Beach",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109933812522546857448\">DoubleTree by Hilton Ocean Point Resort &amp; Spa - North Miami Beach</a>"
+                    ],
+                    "photo_reference": "AUacShhUwBQruP9V8eRSxCVvNZAMf2GOUDj-vGXnTYG5zsk8c1w02X1u4RDg9x80VOR8Fpf-t1lQEFrn7oLa4u3ofoCm-3lC7Eg6smD-OJsbdXOZLP_qEI8Kug_ipDUIvJJdA_AK-akoBZGtysJ8lmelqWrz4Rx-YwnKdvwpRyBwReyURhsi",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJw_Zshx-t2YgRZiR01xVpvGg",
+            "plus_code": {
+                "compound_code": "WVPH+QP North Miami Beach, Florida, USA",
+                "global_code": "76QXWVPH+QP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJw_Zshx-t2YgRZiR01xVpvGg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1479,
+            "vicinity": "17375 Collins Ave, North Miami Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9600522,
+                    "lng": -80.13797869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.96194527989272,
+                        "lng": -80.1372235
+                    },
+                    "southwest": {
+                        "lat": 25.95924562010728,
+                        "lng": -80.14024429999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "JW Marriott Miami Turnberry Resort & Spa",
+            "photos": [
+                {
+                    "height": 320,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114577069367963988740\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShiQORwfuQMHhyiDVMhwEdA0RtSFYMTluIAFwyKD9JOoWMQngU_86Va1FCJCe5hUzGzasvTL51rEjLzcmtixbqqXjpYMyQZxGPf8DBY0whCsoFFBMhLC76Put8mRYIkAAFcYWyG3_MrisBDLCjQM8cWR3GrBhAI-BjGCLLbZh6_MGhK1",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJ0dTonkWt2YgRO2SavRWF5U4",
+            "plus_code": {
+                "compound_code": "XV66+2R Aventura, Florida, USA",
+                "global_code": "76QXXV66+2R"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ0dTonkWt2YgRO2SavRWF5U4",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2911,
+            "vicinity": "19999 W Country Club Dr, Aventura"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9398582,
+                    "lng": -80.12200129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94118492989272,
+                        "lng": -80.12070502010728
+                    },
+                    "southwest": {
+                        "lat": 25.93848527010728,
+                        "lng": -80.12340467989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Residence Inn by Marriott Miami Sunny Isles Beach",
+            "photos": [
+                {
+                    "height": 320,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110598610942886493594\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShh_Pfs4TTNApTCRO5Cl1mnt_kJYQlwdLXdb6hG3Eua4-h_EuzbMz45GGlG0DMEaA0kQX_HwS44XCp0DaurDYsFr_Ju_yQyr4Vw1dZf4MwNtih2XP81IS0dYAfy5tgWnYbdcxkp7QVKPL5oMFab1ujVAzAsMaGDBv2f_WvzsFByrnFGk",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJF2U6IeCs2YgR9NyjkLaatOE",
+            "plus_code": {
+                "compound_code": "WVQH+W5 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVQH+W5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJF2U6IeCs2YgR9NyjkLaatOE",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 952,
+            "vicinity": "17700 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9463264,
+                    "lng": -80.1206395
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94769962989272,
+                        "lng": -80.11930132010727
+                    },
+                    "southwest": {
+                        "lat": 25.94499997010728,
+                        "lng": -80.12200097989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sahara Beach Club Condo (owners association)",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106150890218418276728\">Juan Pablo Terra</a>"
+                    ],
+                    "photo_reference": "AUacShj-ciRh-_wXlXvWxWrJlDIwQfD8D3jPj84AEuj_uATZCrM2ZdlS1oJ44XV5gCUN59CYlCL1leV4MpciOlyKYiYEEPXGnWvELAnjwy3fqm7duVZOvtOnglTl_CWr346e-ufFXW3Mi2O7YZ6Z9IHD-u4h3DDoeEzyHyR_UGbEs-ZvvCEO",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJHQMDWues2YgRrLtikJqTZH8",
+            "plus_code": {
+                "compound_code": "WVWH+GR Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVWH+GR"
+            },
+            "rating": 3.4,
+            "reference": "ChIJHQMDWues2YgRrLtikJqTZH8",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 105,
+            "vicinity": "18335 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9596644,
+                    "lng": -80.1398713
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.96124247989272,
+                        "lng": -80.13861862010728
+                    },
+                    "southwest": {
+                        "lat": 25.95854282010728,
+                        "lng": -80.14131827989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Residence Inn by Marriott Miami Aventura Mall",
+            "photos": [
+                {
+                    "height": 320,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116921947087611860435\">Residence Inn Miami</a>"
+                    ],
+                    "photo_reference": "AUacShi4DSZ0pTltsCk4mf1KIoT5wYeOgJqMogLon9yHmsJ9MhHwnxFpvEM4edcNHngMjp6b2HLQc-4MtB9WBUcUTJg4zhlPgNpg20NHY3xcZZFCvpmPrRPcF2icWs4_hzv0ozKUKMRtsClvI8Nknd7wOq2DBkdf8Ok8miimrepk7htWwhnu",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJZ3OWNPSs2YgRiuWw5nTycCQ",
+            "plus_code": {
+                "compound_code": "XV56+V3 Aventura, Florida, USA",
+                "global_code": "76QXXV56+V3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJZ3OWNPSs2YgRiuWw5nTycCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 861,
+            "vicinity": "19900 W Country Club Dr, Aventura"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9355443,
+                    "lng": -80.12474499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.93679302989272,
+                        "lng": -80.12304902010726
+                    },
+                    "southwest": {
+                        "lat": 25.93409337010728,
+                        "lng": -80.12574867989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sunny Isles Apartments by MiaRentals",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3064,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109052116821746186128\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShh-YQTTVdyaoxbIUdcO-1XqcD2qmh85AAb9je8PFVlVP0-2XZKz1WavHASU1iZgQZ5zMGra2dTASZGLDed2LOPdk_536QhAPQBPz_qHJX_NnCJHLlGVq9q6htLjzhW2_YwIdM_-iFg75GZNubEFY3oV0O1F5ADbOr9mkYaSu7SEvv7l",
+                    "width": 4596
+                }
+            ],
+            "place_id": "ChIJrRwbmB6t2YgRZfGw1XVq_UU",
+            "plus_code": {
+                "compound_code": "WVPG+64 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVPG+64"
+            },
+            "rating": 4.5,
+            "reference": "ChIJrRwbmB6t2YgRZfGw1XVq_UU",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69,
+            "vicinity": "253 172nd St, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9408209,
+                    "lng": -80.1209181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94221277989272,
+                        "lng": -80.11959797010728
+                    },
+                    "southwest": {
+                        "lat": 25.93951312010728,
+                        "lng": -80.12229762989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Acqualina Resort & Residences On The Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5504,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100229164458841474320\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjlZbmm4S_yDmYnz1bRJV9sWZ2H9Jyewxst7EUbc0vn6m-XBcKFQe4haKeOyixSs8EFwnk237F_eOyQLH9ef0BAsqHC72gCaZDrhAqodSDChfXNz0mP8Mi61a_bEUopKF0H5i4MZPtEuJt1FmA2OSoJQeBFc_jc54FIwfUBBozHXEGE",
+                    "width": 8256
+                }
+            ],
+            "place_id": "ChIJXbbXCuCs2YgRzbV-thyE3NA",
+            "plus_code": {
+                "compound_code": "WVRH+8J Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVRH+8J"
+            },
+            "rating": 4.7,
+            "reference": "ChIJXbbXCuCs2YgRzbV-thyE3NA",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1833,
+            "vicinity": "17875 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9418094,
+                    "lng": -80.1237101
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94308632989272,
+                        "lng": -80.12246597010727
+                    },
+                    "southwest": {
+                        "lat": 25.94038667010728,
+                        "lng": -80.12516562989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Roami at Sunny Isles",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104283752335015789586\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjIlOgzfDmB8cfVy82v9m2xgDYXl9CcM5XmEcQjbqO1jFTsb_jDLhEPpHt9dIDiOE_j8EXKrWU3dOeCFPg4XjBCZc3xq8xGKAVu4WPJ0AIhPAvitgSeQ9vG3QknlafP1OoI7YV39IKFReZvMF1ruqxo4WOxXM9ZXsVBydzR_30Sce8",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ53PiJPWt2YgRvx00gfDb7as",
+            "plus_code": {
+                "compound_code": "WVRG+PG Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVRG+PG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ53PiJPWt2YgRvx00gfDb7as",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "real_estate_agency",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "225 179th Dr, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.954474,
+                    "lng": -80.11974029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95583602989272,
+                        "lng": -80.11871302010726
+                    },
+                    "southwest": {
+                        "lat": 25.95313637010727,
+                        "lng": -80.12141267989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Areia Azul Aparts Miami",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110525523190911262624\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShibZ8fm_TzDjkzFkfv9X4Tkgj5OuYlQOXbEvEHjz2JzZfROeG0cuG0Sj5GbIWgTQYV6Yr6GNONAcK-F-mYpagUoF151hFS72GrXZFye_BeGHotDVbva2VW6LcLt-3NSBpDuno38kGRhjBGbxqhFMSAe3u2Itq-q-bGKsYTRzPpjl0ZF",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJkS6ARmOt2YgRX9kz7eyTX3E",
+            "plus_code": {
+                "compound_code": "XV3J+Q4 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXXV3J+Q4"
+            },
+            "rating": 4.6,
+            "reference": "ChIJkS6ARmOt2YgRX9kz7eyTX3E",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "19201 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9355392,
+                    "lng": -80.12474229999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.93681332989272,
+                        "lng": -80.12273487010727
+                    },
+                    "southwest": {
+                        "lat": 25.93411367010728,
+                        "lng": -80.12543452989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Dpto Sunny Isles",
+            "place_id": "ChIJxzLRlB6t2YgR8MpiHi37Qhg",
+            "plus_code": {
+                "compound_code": "WVPG+64 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVPG+64"
+            },
+            "rating": 5,
+            "reference": "ChIJxzLRlB6t2YgR8MpiHi37Qhg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "251 172nd St, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.943195,
+                    "lng": -80.1207521
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94455677989272,
+                        "lng": -80.11945542010727
+                    },
+                    "southwest": {
+                        "lat": 25.94185712010728,
+                        "lng": -80.12215507989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Trump HOTEL Beach Resort",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109440658640623126604\">Joseph Santarelli</a>"
+                    ],
+                    "photo_reference": "AUacShiPbZR14M0OkqLZ265_6I0guDXU7dxNi4NNtkgAOyaz-7HGg2euSnxtrurYPhN-wlloLVzbg6pXV4aGzZ81jEXRIW_5HGxOpEQj0AD-xf01k3T_VpTUtiULnexgmPKTyKV15OJKp7j0Udze_-Z3F-rYnI_Mir9g07Gk5VflzhUWGjc",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ7YgbzZKt2YgRowpwrpDkAL0",
+            "plus_code": {
+                "compound_code": "WVVH+7M Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVVH+7M"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ7YgbzZKt2YgRowpwrpDkAL0",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "18001 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9552958,
+                    "lng": -80.12186199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95664822989272,
+                        "lng": -80.12065282010728
+                    },
+                    "southwest": {
+                        "lat": 25.95394857010728,
+                        "lng": -80.12335247989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ocean Reserve Condominium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106719061284648252741\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjqENDXRiOnspSlmzF6bzXGDatTHqDwkIyLLgkcwh1rkXhkn2kaz1pHVn2dUgZ9F62Iq8M8etIBI4Zh7ruN-60cfKiukfHH3JiagWr3HZPaG6sOj45yIPkxXVNJD4b-OXeO0Zzw4Wm4TqqHvaW7DSzLOEi_NjUK68BMwcJO7suaJXuD",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJbekyxums2YgRuWJpW5MCSMM",
+            "plus_code": {
+                "compound_code": "XV4H+47 Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXXV4H+47"
+            },
+            "rating": 4,
+            "reference": "ChIJbekyxums2YgRuWJpW5MCSMM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 537,
+            "vicinity": "19370 Collins Ave, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9470146,
+                    "lng": -80.1206473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94835642989272,
+                        "lng": -80.11940697010728
+                    },
+                    "southwest": {
+                        "lat": 25.94565677010728,
+                        "lng": -80.12210662989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Days Hotel by Wyndham Thunderbird Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105319116339660872210\">Days Hotel - Thunderbird Beach Resort</a>"
+                    ],
+                    "photo_reference": "AUacShhAkcEIeWpIE3ZLfrJWxZb21Q1hlEPBg5EuGmuGTngBPqfutL5s6WZZkWV_wEkjaSO7jl5ZPWd8wit20bpZnFN9GwHZRhYkmJIYnP_49FSCnaX4gT_gheoGAkOv9dqt9wJWwA68ZO9kXvVelMSuKQdFPuaVS8mc0vMdwwOow6EvuA0S",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJBXe_YOes2YgRD8JLIZoiG4k",
+            "plus_code": {
+                "compound_code": "WVWH+RP Sunny Isles Beach, Florida, USA",
+                "global_code": "76QXWVWH+RP"
+            },
+            "rating": 2.7,
+            "reference": "ChIJBXe_YOes2YgRD8JLIZoiG4k",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1659,
+            "vicinity": "18401 Collins Ave, Sunny Isles Beach"
+        }
+    ],
+    "status": "OK"
+}

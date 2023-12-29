@@ -1,0 +1,974 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AUacShhsZFTTN7pM9mTwUxxL996Ekrk8vKGObFhJq_7bvg5eULJs71IqKdCTP7PpbkGnsKQn_yM8xoL0tsW8xfAjRB1KbJc6DX6psXfjcrlUK31YVUNVR1t6oxMobOhqFwDflM1Oo7tkXjVvwafgiajvR9ldaWJb8Vn3NFIktgymworbJ-ZI62oyIK2atWRcHIij5pqG7XqvFzz7oOnM1Ooxej7ZqJoa-Fo5zz7x0yOGQkD-A8PCY8mJtcYdNRrpaRAFsdu98fzRO5RwFuWLD5aXXX7R3lcBO6QFa6tnlq7qP_RTwOFSl7gykn6E-M6jpq9aNB-GdWnsRhN8Gl2fXe5SKUqJaI6z6jNLu2tHfM3Q7wUUnIGGp8NN8PyM2BeBWx87lL39am8CaEjMYLxplGkwJdHSlXaR1_tyBV4mHmBP9f_sKcF-9vK2MAgGqNhcsCQ",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 25.8900949,
+                    "lng": -80.18671380000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.93027082334886,
+                        "lng": -80.12666794211702
+                    },
+                    "southwest": {
+                        "lat": 25.88087204941586,
+                        "lng": -80.22754292662879
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "North Miami",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102418324642007590587\">Jorge Daniel Astorga</a>"
+                    ],
+                    "photo_reference": "AUacShgangoFMmSYCD23xJ1_mLMcsZMvqA7VFWICeA_Jzos9H33U_0wIqSaw_QhAXg586XPN64xpbihwT9Umbkom7Q7-vSns8TmjD8ZqALGAP5lLNrsKjLxOnd3bECeCcRIJCCj-n7FVp3YzON2VDB_DdmCUKjdDO5CnRKU0rKjyAM--BSUE",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJSbOsTwuw2YgRVuqZ02Kkg68",
+            "reference": "ChIJSbOsTwuw2YgRVuqZ02Kkg68",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "North Miami"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9365586,
+                    "lng": -80.12088749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.93787178029151,
+                        "lng": -80.1198004197085
+                    },
+                    "southwest": {
+                        "lat": 25.9351738197085,
+                        "lng": -80.1224983802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Solé Miami, A Noble House Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105418459233067725527\">Shaked R</a>"
+                    ],
+                    "photo_reference": "AUacShjrJ2b3dOtyriNCKmmPK82egpAbbxI-qqb12Mwkdoc8yv49FOWHvnfnMzJVjIl3n1Kz3ePnDgqHLckI6AgoPEH9YnwY5OEpzoYynWIqsDTHtr9MoQa8b-bJsZ9K4alzwcLyuv2Hi2aJkNOrlf5ruApGrm43Wdccr-47Osp9BSpcb6A-",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJbYQWdh-t2YgRY5RXWxyu4n0",
+            "plus_code": {
+                "compound_code": "WVPH+JJ Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVPH+JJ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJbYQWdh-t2YgRY5RXWxyu4n0",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2408,
+            "vicinity": "17315 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9369408,
+                    "lng": -80.12070799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9382126802915,
+                        "lng": -80.11939691970849
+                    },
+                    "southwest": {
+                        "lat": 25.9355147197085,
+                        "lng": -80.1220948802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "DoubleTree Resort & Spa by Hilton Hotel Ocean Point - North Miami Beach",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109933812522546857448\">DoubleTree Resort &amp; Spa by Hilton Hotel Ocean Point - North Miami Beach</a>"
+                    ],
+                    "photo_reference": "AUacShioZCUT0JDJ39mW0rQ2eqC4E4RQbO_PAseiM4yXLe7GyvA5Mpm-utJyghqDhcfFc7G2HYqh_cEMiWjZIfEATSLYk-DhkfHQBa_DNzOYd34yUN0mSph1VkTfKpOEdrLf1FffbLEb6FW6w4dLaZX8JNMDewr70CtDU6pVJsLUA58t-C3D",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJw_Zshx-t2YgRZiR01xVpvGg",
+            "plus_code": {
+                "compound_code": "WVPH+QP North Miami Beach, FL, USA",
+                "global_code": "76QXWVPH+QP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJw_Zshx-t2YgRZiR01xVpvGg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1479,
+            "vicinity": "17375 Collins Avenue, North Miami Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9408209,
+                    "lng": -80.1209181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9422119302915,
+                        "lng": -80.1195988197085
+                    },
+                    "southwest": {
+                        "lat": 25.93951396970849,
+                        "lng": -80.12229678029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Acqualina Resort & Residences On The Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5504,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100229164458841474320\">Acqualina Resort &amp; Residences On The Beach</a>"
+                    ],
+                    "photo_reference": "AUacShhstdXLptUmzDKUbS0ndUVRVljuycWKYlF5A18bd9CHc60muzGlSS1I5icJLfw2xVZ57ejw_VPPjyQfXYqKac8HuZ92wFu0YovKzmdU7mRWH4fGY2I9yfTRu9j3ekEYHyV3Ffdd1-wcLK4LuxbMIqDe2uFYMukc7DVGdBmhpuBFllYP",
+                    "width": 8256
+                }
+            ],
+            "place_id": "ChIJXbbXCuCs2YgRzbV-thyE3NA",
+            "plus_code": {
+                "compound_code": "WVRH+8J Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVRH+8J"
+            },
+            "rating": 4.7,
+            "reference": "ChIJXbbXCuCs2YgRzbV-thyE3NA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1833,
+            "vicinity": "17875 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9306412,
+                    "lng": -80.1216431
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9320175802915,
+                        "lng": -80.12033501970849
+                    },
+                    "southwest": {
+                        "lat": 25.9293196197085,
+                        "lng": -80.1230329802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Newport Beachside Hotel & Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2912,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109088483243502839302\">Newport Beachside Hotel &amp; Resort</a>"
+                    ],
+                    "photo_reference": "AUacShizAI5pmPyNeTSPB8Eit82zxaAIIqhkxhk9OmbA_nWvZ_kBTC-xhRCe9cM0z2G0AXV-szCYt6QgbOHtsjHTf3ObFQPD3-PC5k2yRKPiEEtzWQYIzEg5VK6j-Na7uyn3T4XiSTkqLZ7gfwpryA7fFv4usH4tBbe5Jsx-lQeHCFsLYagr",
+                    "width": 4024
+                }
+            ],
+            "place_id": "ChIJWfH28Rit2YgRY4znVr8VStU",
+            "plus_code": {
+                "compound_code": "WVJH+78 Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVJH+78"
+            },
+            "rating": 3.6,
+            "reference": "ChIJWfH28Rit2YgRY4znVr8VStU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7428,
+            "vicinity": "16701 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9431972,
+                    "lng": -80.12061279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9445632302915,
+                        "lng": -80.11951456970849
+                    },
+                    "southwest": {
+                        "lat": 25.9418652697085,
+                        "lng": -80.12221253029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Trump International Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4474,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105827596338887716977\">Trump International Beach Resort</a>"
+                    ],
+                    "photo_reference": "AUacShjNoEUstl9t2iBibeBSZI6U_gcEfJcR3cLra8Usm98gZo0m2P4RnLaZiEOMWLxwLcK2PYPODE45du5gTOauHar-v8AFt1gzA2WcaqGvBtFq0MvRKY62kGFgq_phOVOG1FlBcQ1eZVSFXCsVBpZO8kIYAGXgxhK2l0K-1cyZAOl4I0aa",
+                    "width": 6711
+                }
+            ],
+            "place_id": "ChIJffZjguCs2YgRaq7DpWYC2B4",
+            "plus_code": {
+                "compound_code": "WVVH+7Q Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVVH+7Q"
+            },
+            "rating": 4,
+            "reference": "ChIJffZjguCs2YgRaq7DpWYC2B4",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 925,
+            "vicinity": "18001 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9470146,
+                    "lng": -80.1206473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9483555802915,
+                        "lng": -80.1194078197085
+                    },
+                    "southwest": {
+                        "lat": 25.9456576197085,
+                        "lng": -80.12210578029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Days Hotel by Wyndham Thunderbird Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105319116339660872210\">Days Hotel by Wyndham Thunderbird Beach Resort</a>"
+                    ],
+                    "photo_reference": "AUacShgH3E8bUBBot_QnKrp4tIs25AWAsDLly9Y7r5beHCYKhBwVaTFl-N7usDi7SuyLTZDFDgez4LZ774aXSFZQvxoeI7HtKL48gUm5qeXUYAz-XvabfGYNwnlU8oIRc0oBO4HHyJlllvFSRQbJch3VdE_ij5dGngJFHACt3Cs6HkVt_YpG",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJBXe_YOes2YgRD8JLIZoiG4k",
+            "plus_code": {
+                "compound_code": "WVWH+RP Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVWH+RP"
+            },
+            "rating": 2.7,
+            "reference": "ChIJBXe_YOes2YgRD8JLIZoiG4k",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1659,
+            "vicinity": "18401 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9491612,
+                    "lng": -80.1198845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9504985302915,
+                        "lng": -80.1187086697085
+                    },
+                    "southwest": {
+                        "lat": 25.9478005697085,
+                        "lng": -80.1214066302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Marenas Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109216156823187904960\">Marenas Beach Resort</a>"
+                    ],
+                    "photo_reference": "AUacShjWyAcWa7ras1AAzMi1x65w1WTntKjFlnM2LdBuYLSbhKH3eHp7AgBkvhbR6S5sXqAZpx4cGzhww2uXx1y3QpPh1SLOF1cQ2r39o-XTdyEf8raM6noF9tDRnpioPKsDplw-7WijHO8M7YPh7UeI_gAb6kP91fIgO1O1zBO6l_en150R",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJNSzjYt2s2YgRhVyCZ_3Cyrs",
+            "plus_code": {
+                "compound_code": "WVXJ+M2 Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVXJ+M2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJNSzjYt2s2YgRhVyCZ_3Cyrs",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2011,
+            "vicinity": "18683 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9544716,
+                    "lng": -80.11974699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9557344302915,
+                        "lng": -80.11872176970849
+                    },
+                    "southwest": {
+                        "lat": 25.9530364697085,
+                        "lng": -80.12141973029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Ramada Plaza by Wyndham Marco Polo Beach Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112069093429149828642\">Ramada Plaza by Wyndham Marco Polo Beach Resort</a>"
+                    ],
+                    "photo_reference": "AUacShiL5iidRCA2snV4xYkO4I4SMzWfL0MOTlMSoJcJQtUbXoMoO1IcT_9eQ8T6siDgDMQKWXWuJ8Y-gWxUR-7zvIpz7TGV7D8JfAE_JIpZ0Eix2uCIJDTz3AiqfRi2Xw8r3fIq9bVUgJly7u8f7b2KICbK6m-5uYnlcPMT74ew_ij3GOGb",
+                    "width": 1368
+                }
+            ],
+            "place_id": "ChIJ-6G6ZMKs2YgRvYKcAjFfP7I",
+            "plus_code": {
+                "compound_code": "XV3J+Q4 Sunny Isles Beach, FL, USA",
+                "global_code": "76QXXV3J+Q4"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ-6G6ZMKs2YgRvYKcAjFfP7I",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4337,
+            "vicinity": "19201 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9314567,
+                    "lng": -80.12686549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.933651,
+                        "lng": -80.1250815197085
+                    },
+                    "southwest": {
+                        "lat": 25.93019659999999,
+                        "lng": -80.12777948029152
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Intracoastal Yacht Club",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118195731514804466886\">Intracoastal Yacht Club</a>"
+                    ],
+                    "photo_reference": "AUacShh1KRbNTvEgKdW1XrZr6LRFamWFS4a5w361P3gs6rzD0maLykvx3xpvw1ZlVqgcRxA-GByf2ZuFXsh2iNRW2O02HH7NuyePWLsmnSH5NgSBGsF0WNExFWdEia1IOiDnPhRMktmMqn0R45Lxz42NPV4XMIcWFUX2OkPGwYY8Cl8uiuvG",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJE0r-2xut2YgRjLtqM_egaF0",
+            "plus_code": {
+                "compound_code": "WVJF+H7 Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVJF+H7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJE0r-2xut2YgRjLtqM_egaF0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 412,
+            "vicinity": "16900 North Bay Road, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9327548,
+                    "lng": -80.1229074
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9340444302915,
+                        "lng": -80.12163351970848
+                    },
+                    "southwest": {
+                        "lat": 25.93134646970849,
+                        "lng": -80.1243314802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Alamo Rent A Car",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102198114970016932161\">Alamo Rent A Car</a>"
+                    ],
+                    "photo_reference": "AUacShhtbCzH8hAow4vNewSXj18Rt7Eh4gFRPLvBMgj5T719iqav1d_6KeZWqS_9Bjbn0m3wY6ayX1ZKo3W563a_ZG0hUGku3GpmyxTWu8hMi3GAPhveHOnKbXB2p6lfrvcyAZW3wCbRXyFACr8p7YLceFrWRVPn8RNm8zWDKGre8FxqcUSM",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJa_4d8-Cs2YgRyk7Fb88KmjE",
+            "plus_code": {
+                "compound_code": "WVMG+4R Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVMG+4R"
+            },
+            "rating": 4,
+            "reference": "ChIJa_4d8-Cs2YgRyk7Fb88KmjE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 273,
+            "vicinity": "16850 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9315833,
+                    "lng": -80.1229816
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9330578302915,
+                        "lng": -80.12156056970851
+                    },
+                    "southwest": {
+                        "lat": 25.9303598697085,
+                        "lng": -80.12425853029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Marshalls",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102672463053028391335\">Anna Panovici</a>"
+                    ],
+                    "photo_reference": "AUacShh4y-3NiDhjoxw64TdBaqAooiWrCrs6_qlTWOiPJAXibh2GlQBSwNt4bNZBigU7wDyHrPMz_rIsFtInr35Z0eEQwCT_4VZutQaZb_fwvnH2Le9MEbk_Z5lpO2VEjncucgFtpoxoO6cOLXENj1gz9eYAPwB7-1Sgi7BiQUO3pR7uxXtk",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJtdEr-Rit2YgRHtjOynSud_A",
+            "plus_code": {
+                "compound_code": "WVJG+JR North Miami Beach, FL, USA",
+                "global_code": "76QXWVJG+JR"
+            },
+            "rating": 4.3,
+            "reference": "ChIJtdEr-Rit2YgRHtjOynSud_A",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2046,
+            "vicinity": "16800 Collins Avenue, North Miami Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.954474,
+                    "lng": -80.11974029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9558398802915,
+                        "lng": -80.11871366970848
+                    },
+                    "southwest": {
+                        "lat": 25.9531419197085,
+                        "lng": -80.1214116302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_jewish-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_jewish_pinlet",
+            "name": "Chabad of Golden Beach",
+            "photos": [
+                {
+                    "height": 1711,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103898618545453399452\">Chabad of Golden Beach</a>"
+                    ],
+                    "photo_reference": "AUacShjehy4oPXgYrjYIUmlEkfXsomr41tAy3kYKW6DKGVS5VbGK-cssLk6WjQvEHBKTu7O828kABo1mKduXX2_iTctXJlgcdHEB_JYcGnO6kygQfVqxHqRNyyTgmodoF36-5g1Ny5HcVHfOrWl6t_TMNQTJb5FxF2Bq29xnSDLbfWcbvkKQ",
+                    "width": 3858
+                }
+            ],
+            "place_id": "ChIJ-6G6ZMKs2YgREaJ5m3_yN-Q",
+            "plus_code": {
+                "compound_code": "XV3J+Q4 Sunny Isles Beach, FL, USA",
+                "global_code": "76QXXV3J+Q4"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ-6G6ZMKs2YgREaJ5m3_yN-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 53,
+            "vicinity": "19201 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9307381,
+                    "lng": -80.1213721
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9320543802915,
+                        "lng": -80.1202346197085
+                    },
+                    "southwest": {
+                        "lat": 25.9293564197085,
+                        "lng": -80.1229325802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kitchen 305",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2187,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106121852790002243512\">Kitchen 305</a>"
+                    ],
+                    "photo_reference": "AUacShhjt1XNnjEFz2UqgezMKhgJAB1vw_PmUMUOYP8cJ-f8br42g42hQhoKv4H8TkpKWMZT_1y9anCB0NayMHCqR5ny0u8VsUxry33o7uKatqR4_K07wIwZnyOBpfRMmlEH7BvJJj_nOHaK4VCgOqm9VpQKaWZHW3p1rr4RScw0JuBxtOgc",
+                    "width": 3888
+                }
+            ],
+            "place_id": "ChIJWfH28Rit2YgRWw9V3iIDgm4",
+            "plus_code": {
+                "compound_code": "WVJH+7F North Miami Beach, FL, USA",
+                "global_code": "76QXWVJH+7F"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJWfH28Rit2YgRWw9V3iIDgm4",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 624,
+            "vicinity": "16701 Collins Avenue, North Miami Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9369782,
+                    "lng": -80.1208525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9381818802915,
+                        "lng": -80.11937391970849
+                    },
+                    "southwest": {
+                        "lat": 25.9354839197085,
+                        "lng": -80.12207188029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "NCG Medical Systems",
+            "place_id": "ChIJw_Zshx-t2YgRd743YAXo_qo",
+            "plus_code": {
+                "compound_code": "WVPH+QM Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVPH+QM"
+            },
+            "reference": "ChIJw_Zshx-t2YgRd743YAXo_qo",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "17375 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9369802,
+                    "lng": -80.12061279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9381814302915,
+                        "lng": -80.11925416970848
+                    },
+                    "southwest": {
+                        "lat": 25.9354834697085,
+                        "lng": -80.1219521302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+            "name": "ATM",
+            "place_id": "ChIJF-5GnB-t2YgRx_jtHfqdXCQ",
+            "plus_code": {
+                "compound_code": "WVPH+QQ Sunny Isles Beach, FL, USA",
+                "global_code": "76QXWVPH+QQ"
+            },
+            "reference": "ChIJF-5GnB-t2YgRx_jtHfqdXCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "17375 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9279547,
+                    "lng": -80.13595429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9290227802915,
+                        "lng": -80.13463126970849
+                    },
+                    "southwest": {
+                        "lat": 25.9263248197085,
+                        "lng": -80.1373292302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Oleta River State Park",
+            "photos": [
+                {
+                    "height": 1201,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107624153001433885751\">Brian Lacy</a>"
+                    ],
+                    "photo_reference": "AUacShhLRqepp8SHWwC6W7spCTxwkC0KEQ6cE-_MSiKgRm-AtERLtHs2aWneZkWwcIVIfCmwn89OnwRl2QwqLtucFtar4FNqElQ8o2oe4GtStVtbGCY2CboFzE3W5CwWdOUyd168cFTzYn5P2tV-tVo3Igt8jRy2Kp6_cUMT9On2urFNTpDN",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJfW8fEnWt2YgRpLHVb4Wf_Hg",
+            "plus_code": {
+                "compound_code": "WVH7+5J North Miami Beach, FL, USA",
+                "global_code": "76QXWVH7+5J"
+            },
+            "rating": 4.6,
+            "reference": "ChIJfW8fEnWt2YgRpLHVb4Wf_Hg",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6036,
+            "vicinity": "3400 Northeast 163rd Street, North Miami Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.954474,
+                    "lng": -80.11974029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9558351802915,
+                        "lng": -80.11871386970849
+                    },
+                    "southwest": {
+                        "lat": 25.95313721970849,
+                        "lng": -80.12141183029149
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Jonathan Carcasses Aventura Real Estate",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105781953353130896517\">Alex Alex</a>"
+                    ],
+                    "photo_reference": "AUacShg_KaxCTQr_-EImpN21Wx7AolWAES67ny7fTehrcUeTXiSkEd8iBs05Aq6m8MojFjRt5ZTWD43GPcBJphJHSxte6UtYnjovOfGBOY3mx4nRvd-qpRYzoQr9tW7xf60Flad_jY1DVpzC_nxWwV_MhpwOAHlbBSCISpzO6rtVGB6hGij5",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ-6G6ZMKs2YgRL67j14sYfvk",
+            "plus_code": {
+                "compound_code": "XV3J+Q4 Sunny Isles Beach, FL, USA",
+                "global_code": "76QXXV3J+Q4"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ-6G6ZMKs2YgRL67j14sYfvk",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "19201 Collins Ave Cu-120A, Sunny Isles Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9544819,
+                    "lng": -80.11973359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.9560420802915,
+                        "lng": -80.11859551970848
+                    },
+                    "southwest": {
+                        "lat": 25.9533441197085,
+                        "lng": -80.1212934802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Premier Bus Charters",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114659712211217550779\">Premier Bus Charters</a>"
+                    ],
+                    "photo_reference": "AUacShiPNuTJenpbcoAfRRzEjwojvV2Qs5Cr03EtMM6hIUMtKUJ8t4fHkBpwjF9gaBGVQJwh63NTvPqmh3L1CZMfECRTmgd6-ffWQTykJH2VvMDOKF7JIRMQc6wGOtrlpozuI9SlKksODVLg4iW76O0X3jkG5xVMgbPYsif0iXqO1VLJJ8bf",
+                    "width": 1066
+                }
+            ],
+            "place_id": "ChIJmUEtfMKs2YgRQEqIC-stQ5E",
+            "plus_code": {
+                "compound_code": "XV3J+Q4 Sunny Isles Beach, FL, USA",
+                "global_code": "76QXXV3J+Q4"
+            },
+            "reference": "ChIJmUEtfMKs2YgRQEqIC-stQ5E",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "19201 Collins Avenue, Sunny Isles Beach"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 25.9331488,
+                    "lng": -80.1625463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95716296317308,
+                        "lng": -80.12987183423081
+                    },
+                    "southwest": {
+                        "lat": 25.90009590235993,
+                        "lng": -80.20886591819041
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "North Miami Beach",
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105915800670237521144\">itsmeMikeD</a>"
+                    ],
+                    "photo_reference": "AUacShhWLF5_2gt3yb9FrMBE0aqNgHtPQSIIP1Zj2L96ui0heOrUxqJIDYf4RBGXoiSVokapuWIvx1WJ63P7RSEJahOKJzPCbxh4oRfyq-QMkTEyWR11crXlC-gg8A6diGob_pc_jVnynoia8Qt9IXQfj6VmIMPESiFFDN_kw0zv-hWn8WDM",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ4b_DhM-t2YgR6HhclfjeThI",
+            "reference": "ChIJ4b_DhM-t2YgR6HhclfjeThI",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "North Miami Beach"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,131 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9117892,
+                    "lng": -80.13997979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.91300297989272,
+                        "lng": -80.13878637010727
+                    },
+                    "southwest": {
+                        "lat": 25.91030332010727,
+                        "lng": -80.1414860298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Florida International University",
+            "place_id": "ChIJKdcb6ZWt2YgRhqzuxLCc7kE",
+            "plus_code": {
+                "compound_code": "WV66+P2 North Miami Beach, Florida, USA",
+                "global_code": "76QXWV66+P2"
+            },
+            "rating": 0,
+            "reference": "ChIJKdcb6ZWt2YgRhqzuxLCc7kE",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3000 NE 151st St, North Miami Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9549348,
+                    "lng": -80.1219737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95653227989272,
+                        "lng": -80.12068762010728
+                    },
+                    "southwest": {
+                        "lat": 25.95383262010728,
+                        "lng": -80.12338727989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Jesus is Lord International University",
+            "photos": [
+                {
+                    "height": 934,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110764179033010754748\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShhBbZw9uGJiAblyTx3ONzQ5FS8Tav5qeRguIQgYPZOH-rIouGkj1G8gIJjc9Qxw2ZCTIz_rvC_Z7LBOXoBHRVkosWdiHx3XZKfJdS11dhOZpVW6zMS7gQ4HENKfFY9wPOcJxXeuG3iZQB_4G4ZNzI_uEK0llYQbEF3oBPMCePfq5UsY",
+                    "width": 2031
+                }
+            ],
+            "place_id": "ChIJI30juOms2YgRg62KYYWxhqM",
+            "plus_code": {
+                "compound_code": "XV3H+X6 North Miami Beach, Florida, USA",
+                "global_code": "76QXXV3H+X6"
+            },
+            "rating": 5,
+            "reference": "ChIJI30juOms2YgRg62KYYWxhqM",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "1202, 19370 Collins Ave, North Miami Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9098526,
+                    "lng": -80.14411149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.91121177989272,
+                        "lng": -80.14276417010727
+                    },
+                    "southwest": {
+                        "lat": 25.90851212010728,
+                        "lng": -80.14546382989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Florida International University Biscayne Bay Campus",
+            "place_id": "ChIJ9-_FH4Ot2YgRnZiYgkVtuSo",
+            "plus_code": {
+                "compound_code": "WV54+W9 North Miami, Florida, USA",
+                "global_code": "76QXWV54+W9"
+            },
+            "rating": 5,
+            "reference": "ChIJ9-_FH4Ot2YgRnZiYgkVtuSo",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "3000 NE 145th St, North Miami"
+        }
+    ],
+    "status": "OK"
+}

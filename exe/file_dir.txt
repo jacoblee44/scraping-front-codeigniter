@@ -1,0 +1,5 @@
+2023-08-12 14:44:37,077 - my_application - ERROR - Some error occurred
+Traceback (most recent call last):
+  File "E:\Project\Python\horse_racing_model (2)\westin.py", line 43, in <module>
+    raise ValueError("Some error occurred")
+ValueError: Some error occurred
